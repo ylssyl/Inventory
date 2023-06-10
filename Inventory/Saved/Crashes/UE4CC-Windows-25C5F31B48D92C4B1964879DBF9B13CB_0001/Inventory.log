@@ -1,0 +1,1560 @@
+﻿Log file open, 08/09/22 15:10:13
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Inventory
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.306146
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ControlRig
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin PowerIK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/秋林落叶/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-7300HQ CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/Inventory/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/Inventory/Saved/Config/Windows/Engine.ini]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[r.CustomDepth:3]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Documents/Inventory/Saved/Config/Windows/Engine.ini]
+[2022.08.09-07.10.15:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/Inventory/Saved/Config/Windows/Engine.ini]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.08.09-07.10.15:176][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Documents/Inventory/Saved/Config/Windows/Engine.ini]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.08.09-07.10.15:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Documents/Inventory/Saved/Config/Windows/Engine.ini]
+[2022.08.09-07.10.15:177][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Documents/Inventory/Saved/Config/Windows/Engine.ini]
+[2022.08.09-07.10.15:245][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:245][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.09-07.10.15:245][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.09-07.10.15:246][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.09-07.10.15:247][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.09-07.10.15:248][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.09-07.10.15:248][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.08.09-07.10.15:248][  0]LogHAL: Display: Platform has ~ 16 GB [17035321344 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.08.09-07.10.15:248][  0]LogInit: Going up to parent DeviceProfile []
+[2022.08.09-07.10.15:248][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.08.09-07.10.15:248][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.08.09-07.10.15:249][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Documents/Inventory/Saved/Config/Windows/Scalability.ini]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.08.09-07.10.15:250][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/Inventory/Saved/Config/Windows/Engine.ini]
+[2022.08.09-07.10.15:250][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Documents/Inventory/Saved/Config/Windows/Editor.ini]
+[2022.08.09-07.10.15:251][  0]LogInit: Computer: DESKTOP-CDPQP2S
+[2022.08.09-07.10.15:251][  0]LogInit: User: 秋林落叶
+[2022.08.09-07.10.15:251][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.08.09-07.10.15:251][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.08.09-07.10.15:251][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.08.09-07.10.15:251][  0]LogMemory: Platform Memory Stats for Windows
+[2022.08.09-07.10.15:251][  0]LogMemory: Process Physical Memory: 130.91 MB used, 130.91 MB peak
+[2022.08.09-07.10.15:251][  0]LogMemory: Process Virtual Memory: 111.55 MB used, 111.55 MB peak
+[2022.08.09-07.10.15:251][  0]LogMemory: Physical Memory: 11116.95 MB used,  5129.20 MB free, 16246.15 MB total
+[2022.08.09-07.10.15:251][  0]LogMemory: Virtual Memory: 134211056.00 MB used,  6671.50 MB free, 134217728.00 MB total
+[2022.08.09-07.10.15:258][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.08.09-07.10.15:298][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.08.09-07.10.15:300][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.08.09-07.10.15:300][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.08.09-07.10.15:539][  0]LogInit: Setting process to per monitor DPI aware
+[2022.08.09-07.10.15:551][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.08.09-07.10.15:575][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.08.09-07.10.15:575][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.08.09-07.10.15:873][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.09-07.10.15:873][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.08.09-07.10.15:873][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.08.09-07.10.15:873][  0]LogD3D11RHI: D3D11 adapters:
+[2022.08.09-07.10.16:930][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2022.08.09-07.10.16:930][  0]LogD3D11RHI:       4021/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.08.09-07.10.16:957][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2022.08.09-07.10.16:957][  0]LogD3D11RHI:       128/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.08.09-07.10.16:959][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.08.09-07.10.16:959][  0]LogD3D11RHI:       0/0/8123 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.08.09-07.10.16:959][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.08.09-07.10.17:014][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.08.09-07.10.17:015][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2022.08.09-07.10.17:015][  0]LogWindows: EnumDisplayDevices:
+[2022.08.09-07.10.17:015][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2022.08.09-07.10.17:015][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2022.08.09-07.10.17:016][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2022.08.09-07.10.17:016][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.08.09-07.10.17:016][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2022.08.09-07.10.17:016][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.08.09-07.10.17:016][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.08.09-07.10.17:016][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2022.08.09-07.10.17:103][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.08.09-07.10.17:105][  0]LogD3D11RHI: Async texture creation enabled
+[2022.08.09-07.10.17:105][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.08.09-07.10.17:138][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.08.09-07.10.17:152][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.08.09-07.10.17:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.08.09-07.10.17:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.08.09-07.10.17:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.08.09-07.10.17:652][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.08.09-07.10.17:665][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.08.09-07.10.17:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.08.09-07.10.17:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.08.09-07.10.17:697][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.08.09-07.10.17:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.08.09-07.10.17:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.08.09-07.10.17:726][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.08.09-07.10.17:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.08.09-07.10.17:751][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.08.09-07.10.17:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.08.09-07.10.17:770][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.08.09-07.10.17:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.08.09-07.10.17:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.08.09-07.10.17:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.08.09-07.10.17:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.08.09-07.10.17:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.08.09-07.10.17:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.08.09-07.10.17:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.08.09-07.10.17:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.08.09-07.10.17:847][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.08.09-07.10.17:857][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.08.09-07.10.17:938][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.08.09-07.10.17:938][  0]LogShaderCompilers: Guid format shader working directory is 10 characters bigger than the processId version (../../../../../Documents/Inventory/Intermediate/Shaders/WorkingDirectory/19156/).
+[2022.08.09-07.10.17:938][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/秋林落叶/AppData/Local/Temp/UnrealShaderWorkingDir/5077620F4D1CC35D62209FA539FB7576/'.
+[2022.08.09-07.10.17:938][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.08.09-07.10.17:938][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.08.09-07.10.18:884][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.08.09-07.10.18:945][  0]LogDerivedDataCache: Loaded boot cache 0.06s 85MB C:/Users/秋林落叶/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.08.09-07.10.18:945][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/秋林落叶/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.08.09-07.10.18:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Inventory/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.08.09-07.10.18:945][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.08.09-07.10.18:945][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Inventory/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.09-07.10.18:945][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.08.09-07.10.18:959][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.08.09-07.10.18:959][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.08.09-07.10.18:959][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.08.09-07.10.18:979][  0]LogDerivedDataCache: Speed tests for C:/Users/秋林落叶/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2022.08.09-07.10.18:979][  0]LogDerivedDataCache: Display: Performance to C:/Users/秋林落叶/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=1136.82MBs, RandomWriteSpeed=48.39MBs. Assigned SpeedClass 'Local'
+[2022.08.09-07.10.18:980][  0]LogDerivedDataCache: Using Local data cache path C:/Users/秋林落叶/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.08.09-07.10.18:980][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.08.09-07.10.18:980][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.08.09-07.10.19:036][  0]LogSlate: Using FreeType 2.10.0
+[2022.08.09-07.10.19:037][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.08.09-07.10.19:073][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2022.08.09-07.10.19:335][  0]LogInit: Selected Device Profile: [Windows]
+[2022.08.09-07.10.19:335][  0]LogInit: Active device profile: [000001DFCA392400][000001DFC9A38680 49] Windows
+[2022.08.09-07.10.19:335][  0]LogInit: Profiles: [000001DFCA392400][000001DFC9A38680 49] Windows, [000001DFCA2B7300][000001DFC9A44800 49] WindowsNoEditor, [000001DFCA392200][000001DFC9A60980 49] WindowsServer, [000001DFCA2B6A00][000001DFC9A64B00 49] WindowsClient, [000001DFCA392F00][000001DFC9A68C80 49] IOS, [000001DFCA2B7000][000001DFC9A6CE00 49] iPadAir, [000001DFCA391100][000001DFC9A70F80 49] iPadAir2, [000001DFCA057000][000001DFCAB0B240 49] IPadPro, [000001DFCA057100][000001DFC9A75280 49] iPadAir3, [000001DFCA392B00][000001DFCAB0F400 49] iPadAir4, [000001DFCA056A00][000001DFCAB13580 49] iPadMini2, [000001DFCA391000][000001DFCAB17700 49] iPadMini3, [000001DFCA055B00][000001DFC9A3D840 49] iPadMini4, [000001DFCA391400][000001DFCAB1B980 49] iPadMini5, [000001DFCA092900][000001DFCAB55C00 49] iPhone6, [000001DFCA092A00][000001DFCAB1FC40 49] iPodTouch6, [000001DFCA2B7500][000001DFCAB5C240 49] iPhone7, [000001DFCA2B7400][000001DFCAB58280 49] iPodTouch7, [000001DFCA090E00][000001DFCAB64400 49] iPhone5S, [000001DFCA2B4900][000001DFCAB68580 49] iPhone6Plus, [000001DFCA091300][000001DFCAB6C700 49] iPhone6S, [000001DFCA2B7D00][000001DFCAB7C880 49] iPhone6SPlus, [000001DFCA092E00][000001DFCABA0A00 49] iPhone7Plus, [000001DFCA2B4D00][000001DFCABA4B80 49] iPhoneSE, [000001DFCA093100][000001DFCABA8D00 49] iPhone8, [000001DFCA2B5200][000001DFCABACE80 49] iPhone8Plus, [000001DFCA091F00][000001DFCABB1000 49] iPhoneX, [000001DFCA2B5D00][000001DFCABF9180 49] iPhoneXS, [000001DFCA090300][000001DFCABFD300 49] iPhoneXSMax, [000001DFCA2B7700][000001DFCAC05480 49] iPhoneXR, [000001DFCA091000][000001DFCAC09600 49] iPhone11, [000001DFCA2B5500][000001DFCAC0D780 49] iPhone11Pro, [000001DFCA093900][000001DFCAB518C0 49] iPhone11ProMax, [000001DFCA2B6600][000001DFCAC11A00 49] iPhoneSE2, [000001DFCA092600][000001DFCAC21B40 49] iPhone12Mini, [000001DFCA2B4700][000001DFCAC29CC0 49] iPhone12, [000001DFCA090C00][000001DFCAC2C180 49] iPhone12Pro, [000001DFCA2B5F00][000001DFCAC30300 49] iPhone12ProMax, [000001DFCA091700][000001DFCAC34480 49] iPadPro105, [000001DFCA2B6F00][000001DFCAC38600 49] iPadPro129, [000001DFCA091600][000001DFCAC3C780 49] iPadPro97, [000001DFCA090900][000001DFCAC40900 49] iPadPro2_129, [000001DFCA393200][000001DFCAC44A80 49] iPad5, [000001DFCA093C00][000001DFCAC48C00 49] iPad6, [000001DFCA390700][000001DFCAC4CD80 49] iPad7, [000001DFCA093800][000001DFCAC70F00 49] iPad8, [000001DFCA392100][000001DFCAC75080 49] iPadPro11, [000001DFCA2B5A00][000001DFCAC79200 49] iPadPro2_11, [000001DFCA391900][000001DFCAC7D380 49] iPadPro3_129, [000001DFCA2B6E00][000001DFCAC81500 49] iPadPro4_129, [000001DFCA392600][000001DFCAC85680 49] AppleTV, [000001DFCA2B7F00][000001DFCAC89800 49] AppleTV4K, [000001DFCA393000][000001DFCAC25940 49] TVOS, [000001DFCA2B7E00][000001DFCACB9A80 49] Mac, [000001DFCA393300][000001DFCACBDBC0 49] MacClient, [000001DFCA2B7200][000001DFCACC1D00 49] MacNoEditor, [000001DFCA390B00][000001DFCACC81C0 49] MacServer, [000001DFCA2B6900][000001DFCACCC340 49] Linux, [000001DFCA390100][000001DFCACD04C0 49] LinuxAArch64, [000001DFCA2B6500][000001DFCACD4640 49] LinuxNoEditor, [000001DFCA392E00][000001DFCACD87C0 49] LinuxAArch64NoEditor, [000001DFCA2B4800][000001DFCACDC940 49] LinuxClient, [000001DFCA393900][000001DFCACE0AC0 49] LinuxAArch64Client, [000001DFCA2B5E00][000001DFCAD20C40 49] LinuxServer, [000001DFCA391D00][000001DFCAD24DC0 49] LinuxAArch64Server, [000001DFCA2B6700][000001DFCAD28F40 49] Android, [000001DFCA391F00][000001DFCAD2D0C0 49] Android_Low, [000001DFCA2B5800][000001DFCAD31240 49] Android_Mid, [000001DFCA390A00][000001DFCAD353C0 49] Android_High, [000001DFCA2B6100][000001DFCAD39540 49] Android_Default, [000001DFCA391200][000001DFCAD3D6C0 49] Android_Adreno4xx, [000001DFCA2B6D00][000001DFCAD41840 49] Android_Adreno5xx_Low, [000001DFCA390F00][000001DFCACC5980 49] Android_Adreno5xx, [000001DFCA2B4400][000001DFCAD45AC0 49] Android_Adreno6xx, [000001DFCA393B00][000001DFCAD49C00 49] Android_Adreno6xx_Vulkan, [000001DFCA2B7B00][000001DFCAD4DD40 49] Android_Mali_T6xx, [000001DFCA393400][000001DFCAD54200 49] Android_Mali_T7xx, [000001DFCA2B6300][000001DFCAD58380 49] Android_Mali_T8xx, [000001DFCA392300][000001DFCAD5C500 49] Android_Mali_G71, [000001DFCA2B4100][000001DFCAD60680 49] Android_Mali_G72, [000001DFCA390900][000001DFCADB6800 49] Android_Mali_G72_Vulkan, [000001DFCA2B7800][000001DFCADBA980 49] Android_Mali_G76, [000001DFCA390600][000001DFCADBEB00 49] Android_Mali_G76_Vulkan, [000001DFCA2B5900][000001DFCADC2C80 49] Android_Mali_G77, [000001DFCA392C00][000001DFCADC6E00 49] Android_Mali_G77_Vulkan, [000001DFCA2B4500][000001DFCADCAF80 49] Android_Vulkan_SM5, [000001DFCA391C00][000001DFCADCF100 49] Android_PowerVR_G6xxx, [000001DFCA2B4F00][000001DFCADD3280 49] Android_PowerVR_GT7xxx, [000001DFCA391300][000001DFCADD7400 49] Android_PowerVR_GE8xxx, [000001DFCA2B5700][000001DFCADDB580 49] Android_PowerVR_GM9xxx, [000001DFCA090A00][000001DFCADDF700 49] Android_PowerVR_GM9xxx_Vulkan, [000001DFCA054700][000001DFCADE3880 49] Android_TegraK1, [000001DFCA090800][000001DFCADE7A00 49] Android_Unknown_Vulkan, [000001DFCA054600][000001DFCAD51B40 49] Lumin, [000001DFCA093B00][000001DFCADEBC80 49] Lumin_Desktop, [000001DFCA055E00][000001DFCADEE100 49] HoloLens, 
+[2022.08.09-07.10.19:464][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.08.09-07.10.19:464][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.08.09-07.10.19:464][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.08.09-07.10.19:464][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.08.09-07.10.19:464][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.08.09-07.10.19:489][  0]LogNetVersion: Inventory 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 583110705)
+[2022.08.09-07.10.20:120][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.08.09-07.10.20:213][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.092019 seconds
+[2022.08.09-07.10.20:220][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.08.09-07.10.20:220][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.08.09-07.10.20:220][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.08.09-07.10.20:665][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.08.09-07.10.20:670][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.08.09-07.10.21:873][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.817 s
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: 
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1826]
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: Stack: 
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8110dca39 UE4Editor-Engine.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff80fb6e8ff UE4Editor-Engine.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007fffe9cec453 UE4Editor-Inventory-7606.dll!AItemOnGroundBase::AItemOnGroundBase() [D:\Documents\Inventory\Source\Inventory\Private\Actor\ItemOnGroundBase.cpp:42]
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff827fcc203 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff82828fabf UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff82827287f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8281a2305 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff825c699ea UE4Editor-Core.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff825c912a8 UE4Editor-Core.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff87111e7d3 UE4Editor-Projects.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff87111eaea UE4Editor-Projects.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7782053a2 UE4Editor.exe!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff778208a62 UE4Editor.exe!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff778200eec UE4Editor.exe!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff77820125a UE4Editor.exe!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff7782152bd UE4Editor.exe!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff778217fea UE4Editor.exe!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff880867034 KERNEL32.DLL!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: [Callstack] 0x00007ff8826c2651 ntdll.dll!UnknownFunction []
+[2022.08.09-07.10.21:873][  0]LogOutputDevice: Error: 
+[2022.08.09-07.10.21:913][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2022.08.09-07.10.23:389][  0]LogStats:                    SendNewReport -  1.476 s
+[2022.08.09-07.10.23:389][  0]LogStats:             FDebug::EnsureFailed -  2.334 s
+[2022.08.09-07.10.23:521][  0]SourceControl: Source control is disabled
+[2022.08.09-07.10.23:521][  0]SourceControl: Source control is disabled
+[2022.08.09-07.10.23:525][  0]SourceControl: Source control is disabled
+[2022.08.09-07.10.23:528][  0]SourceControl: Source control is disabled
+[2022.08.09-07.10.23:538][  0]SourceControl: Source control is disabled
+[2022.08.09-07.10.23:546][  0]LogUProjectInfo: Found projects:
+[2022.08.09-07.10.23:762][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.08.09-07.10.23:787][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.09-07.10.23:787][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.08.09-07.10.23:883][  0]LogCollectionManager: Loaded 0 collections in 0.000901 seconds
+[2022.08.09-07.10.23:911][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Inventory/Saved/Collections/' took 0.00s
+[2022.08.09-07.10.23:911][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Inventory/Content/Developers/秋林落叶/Collections/' took 0.00s
+[2022.08.09-07.10.23:911][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Inventory/Content/Collections/' took 0.00s
+[2022.08.09-07.10.23:911][  0]LogOcInput: OculusInput pre-init called
+[2022.08.09-07.10.23:924][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.08.09-07.10.23:924][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FNavButtonAttr::ButtonSize is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FShortcutsWidgetType3Attr::BagSize is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FBagWidgetType1Attr::BagSize is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemOnShortcutsGridAttr::Size is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemOnShortcutsGridAttr::MaxStackNum is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemOnBagGridAttr::Size is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemOnBagGridAttr::MaxStackNum is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemOnGroundAttr::MaxStackNum is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemCommonAttr::BugPrice is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemCommonAttr::SellPrice is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemPotionAttr::Cost is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FPropertyEffect::Amount is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FPropertyEffect::Duration is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FPropertyEffect::EffectDuration is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemWeaponAttr::Attack is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FShortcutsData::ShortcutsGridNums is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemOnGroundData::ID is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemOnGroundData::Num is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FItemOnGroundData::Location is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FPlayerData::Level is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FPlayerData::Location is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:977][  0]LogClass: Warning: FBagData::GridNums is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogClass: Display: 22 Uninitialized script struct members found
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FNavButtonAttr::ButtonSize is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FShortcutsWidgetType3Attr::BagSize is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FBagWidgetType1Attr::BagSize is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemOnShortcutsGridAttr::Size is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemOnShortcutsGridAttr::MaxStackNum is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemOnBagGridAttr::Size is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemOnBagGridAttr::MaxStackNum is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemOnGroundAttr::MaxStackNum is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemCommonAttr::BugPrice is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemCommonAttr::SellPrice is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemPotionAttr::Cost is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FPropertyEffect::Amount is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FPropertyEffect::Duration is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FPropertyEffect::EffectDuration is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemWeaponAttr::Attack is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FShortcutsData::ShortcutsGridNums is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemOnGroundData::ID is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemOnGroundData::Num is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FItemOnGroundData::Location is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FPlayerData::Level is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FPlayerData::Location is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:978][  0]LogAutomationTest: Warning: FBagData::GridNums is not initialized properly. Module:Inventory File:Public/Object/CommonTypes.h
+[2022.08.09-07.10.23:979][  0]LogEngine: Initializing Engine...
+[2022.08.09-07.10.23:980][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.08.09-07.10.23:980][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.08.09-07.10.23:981][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.08.09-07.10.24:102][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.08.09-07.10.24:111][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.08.09-07.10.24:129][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.08.09-07.10.24:133][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.08.09-07.10.24:133][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.08.09-07.10.24:133][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-07.10.24:134][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-07.10.24:134][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-07.10.24:134][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-07.10.24:134][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-07.10.24:134][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-07.10.24:134][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-07.10.24:134][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-07.10.24:134][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.08.09-07.10.24:134][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-07.10.24:152][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-07.10.24:152][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-07.10.24:301][  0]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.08.09-07.10.24:304][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-07.10.24:307][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-07.10.24:307][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-07.10.24:308][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-07.10.24:308][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-07.10.24:308][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-07.10.24:309][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-07.10.24:309][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-07.10.24:309][  0]LogInit: FAudioDevice initialized.
+[2022.08.09-07.10.24:309][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.08.09-07.10.24:309][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.08.09-07.10.24:386][  0]LogDerivedDataCache: Saved boot cache 0.08s 85MB C:/Users/秋林落叶/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.08.09-07.10.24:386][  0]LogInit: Texture streaming: Enabled
+[2022.08.09-07.10.24:402][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.08.09-07.10.24:414][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.08.09-07.10.24:414][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={769D2632-4B0B-E8F7-ABC9-A0ACEC56833A}
+[2022.08.09-07.10.24:414][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.08.09-07.10.24:419][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.08.09-07.10.24:458][  0]LogInit: Transaction tracking system initialized
+[2022.08.09-07.10.24:485][  0]BlueprintLog: New page: Editor Load
+[2022.08.09-07.10.24:572][  0]LocalizationService: Localization service is disabled
+[2022.08.09-07.10.24:603][  0]TimingProfiler: Initialize
+[2022.08.09-07.10.24:603][  0]TimingProfiler: OnSessionChanged
+[2022.08.09-07.10.24:603][  0]LoadingProfiler: Initialize
+[2022.08.09-07.10.24:603][  0]LoadingProfiler: OnSessionChanged
+[2022.08.09-07.10.24:603][  0]NetworkingProfiler: Initialize
+[2022.08.09-07.10.24:603][  0]NetworkingProfiler: OnSessionChanged
+[2022.08.09-07.10.24:603][  0]MemoryProfiler: Initialize
+[2022.08.09-07.10.24:603][  0]MemoryProfiler: OnSessionChanged
+[2022.08.09-07.10.24:803][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.08.09-07.10.24:803][  0]LogCook: Display: Mobile HDR setting 1
+[2022.08.09-07.10.24:995][  0]LogFileCache: Scanning file cache for directory 'D:/Documents/Inventory/Content/' took 0.04s
+[2022.08.09-07.10.25:291][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.08.09-07.10.25:295][  0]SourceControl: Source control is disabled
+[2022.08.09-07.10.25:295][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.654
+[2022.08.09-07.10.25:296][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Inventory/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.08.09-07.10.25:296][  0]LightingResults: New page: Lighting Build
+[2022.08.09-07.10.25:297][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-07.10.25:297][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-07.10.25:297][  0]MapCheck: New page: Map Check
+[2022.08.09-07.10.25:297][  0]LightingResults: New page: Lighting Build
+[2022.08.09-07.10.25:307][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.08.09-07.10.25:480][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.08.09-07.10.25:482][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.08.09-07.10.25:495][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.08.09-07.10.25:507][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.08.09-07.10.25:507][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.08.09-07.10.25:507][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2022.08.09-07.10.25:507][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.211
+[2022.08.09-07.10.25:511][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.869
+[2022.08.09-07.10.25:646][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-07.10.25:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-07.10.25:660][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-07.10.25:666][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-07.10.25:685][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0116 seconds. Added 3708 classes and 902 folders.
+[2022.08.09-07.10.25:689][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.08.09-07.10.25:691][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.09-07.10.25:691][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:692][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.09-07.10.25:692][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.08.09-07.10.25:693][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.08.09-07.10.25:693][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:693][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.08.09-07.10.25:693][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.08.09-07.10.25:694][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.08.09-07.10.25:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:694][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.08.09-07.10.25:694][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.08.09-07.10.25:694][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.09-07.10.25:694][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:695][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.09-07.10.25:695][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.08.09-07.10.25:695][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.08.09-07.10.25:695][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.08.09-07.10.25:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.08.09-07.10.25:696][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.09-07.10.25:696][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:696][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.09-07.10.25:696][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.08.09-07.10.25:697][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.08.09-07.10.25:697][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:697][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.08.09-07.10.25:697][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.08.09-07.10.25:698][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.08.09-07.10.25:698][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:698][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.08.09-07.10.25:698][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.08.09-07.10.25:699][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.09-07.10.25:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.09-07.10.25:700][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.08.09-07.10.25:701][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.08.09-07.10.25:701][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:701][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.08.09-07.10.25:701][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.08.09-07.10.25:702][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.08.09-07.10.25:702][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:702][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.08.09-07.10.25:702][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.08.09-07.10.25:703][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.09-07.10.25:703][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:703][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.09-07.10.25:703][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.08.09-07.10.25:704][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.09-07.10.25:704][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:704][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.09-07.10.25:704][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.08.09-07.10.25:705][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.09-07.10.25:705][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:705][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.09-07.10.25:705][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.08.09-07.10.25:706][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.08.09-07.10.25:706][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:706][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.08.09-07.10.25:706][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.08.09-07.10.25:707][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.09-07.10.25:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.09-07.10.25:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.08.09-07.10.25:707][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.08.09-07.10.25:707][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:707][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.08.09-07.10.25:707][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.08.09-07.10.25:708][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.09-07.10.25:708][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:708][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.09-07.10.25:708][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.08.09-07.10.25:709][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.09-07.10.25:709][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:709][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.09-07.10.25:709][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.08.09-07.10.25:710][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.09-07.10.25:710][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:710][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.09-07.10.25:710][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.08.09-07.10.25:711][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.08.09-07.10.25:711][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:711][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.08.09-07.10.25:711][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.08.09-07.10.25:713][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.08.09-07.10.25:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.08.09-07.10.25:713][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.08.09-07.10.25:713][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.08.09-07.10.25:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.08.09-07.10.25:714][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.08.09-07.10.25:715][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.08.09-07.10.25:715][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:715][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.08.09-07.10.25:715][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.08.09-07.10.25:716][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.08.09-07.10.25:716][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:716][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.08.09-07.10.25:716][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2022.08.09-07.10.25:717][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.08.09-07.10.25:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.08.09-07.10.25:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.08.09-07.10.25:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2022.08.09-07.10.25:789][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.08.09-07.10.25:790][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.08.09-07.10.25:935][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.08.09-07.10.25:937][  0]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.08.09-07.10.25:942][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.08.09-07.10.26:063][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2022.08.09-07.10.26:672][  0]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.09-07.10.26:775][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.08.09-07.10.26:776][  0]LogLoad: (Engine Initialization) Total time: 15.13 seconds
+[2022.08.09-07.10.26:776][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.08.09-07.10.26:776][  0]LogInit: First time updating LLM stats...
+[2022.08.09-07.10.26:895][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.08.09-07.10.26:936][  1]LogAssetRegistry: Asset discovery search completed in 7.8650 seconds
+[2022.08.09-07.10.26:938][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.08.09-07.10.28:253][  5]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.09-07.10.33:652][ 21]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/ShortcutsGridWidgetType3_WBP.ShortcutsGridWidgetType3_WBP
+[2022.08.09-07.10.33:730][ 21]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.08.09-07.10.34:854][ 21]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTable/ItemOnShortcutsGridAttr_DT.ItemOnShortcutsGridAttr_DT
+[2022.08.09-07.10.34:937][ 21]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/HUDWidget_WBP.HUDWidget_WBP
+[2022.08.09-07.10.35:384][ 21]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UMG/ShortcutsWidgetType3_WBP.ShortcutsWidgetType3_WBP
+[2022.08.09-07.10.35:819][ 21]LogAssetEditorSubsystem: Opening Asset editor for InventoryDataAsset /Game/DataTable/InventoryAsset_DA.InventoryAsset_DA
+[2022.08.09-07.10.35:869][ 21]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/DataTable/ShortcutsWidgetType3Attr_DT.ShortcutsWidgetType3Attr_DT
+[2022.08.09-07.11.03:696][181]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.09-07.11.03:706][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-07.11.03:707][181]PIE: New page: PIE session: ThirdPersonExampleMap (2022年8月9日 下午11:11:03)
+[2022.08.09-07.11.03:708][181]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.08.09-07.11.03:710][181]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.09-07.11.03:711][181]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.08.09-07.11.03:730][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018812s)
+[2022.08.09-07.11.03:731][181]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.08.09-07.11.03:732][181]LogPlayLevel: PIE: World Init took: (0.002107s)
+[2022.08.09-07.11.03:732][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021261s)
+[2022.08.09-07.11.03:807][181]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2022.08.09-07.11.03:810][181]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.09-07.11.03:810][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-07.11.03:810][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-07.11.03:810][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-07.11.03:810][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-07.11.03:810][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-07.11.03:810][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-07.11.03:810][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-07.11.03:810][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-07.11.03:810][181]LogAudio: Display: Using built-in audio occlusion.
+[2022.08.09-07.11.03:811][181]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-07.11.03:815][181]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-07.11.03:815][181]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-07.11.03:928][181]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.08.09-07.11.03:929][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-07.11.03:929][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-07.11.03:929][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-07.11.03:929][181]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-07.11.03:929][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-07.11.03:929][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-07.11.03:949][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-07.11.03:949][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-07.11.03:949][181]LogInit: FAudioDevice initialized.
+[2022.08.09-07.11.03:949][181]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.08.09-07.11.03:957][181]LogLoad: Game class is 'GM_BP_C'
+[2022.08.09-07.11.03:960][181]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.08.09-15.11.03
+[2022.08.09-07.11.03:960][181]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2022.08.09-07.11.03:961][181]LogWorld: Bringing up level for play took: 0.001964
+[2022.08.09-07.11.03:961][181]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.08.09-07.11.03:965][181]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.08.09-07.11.03:965][181]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.08.09-07.11.03:965][181]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.08.09-07.11.03:966][181]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.03:966][181]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.03:967][181]LogBlueprintUserMessages: [GM_BP_C_0] true
+[2022.08.09-07.11.03:967][181]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.03:967][181]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.03:970][181]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.03:970][181]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.03:971][181]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.03:971][181]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.03:979][181]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.03:979][181]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.03:980][181]PIE: Server logged in
+[2022.08.09-07.11.03:982][181]PIE: Play in editor total start time 0.278 seconds.
+[2022.08.09-07.11.06:101][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:101][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:114][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:114][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:115][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:115][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:116][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:116][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:117][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:117][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:118][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:118][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:118][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:118][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:119][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:119][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:120][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:120][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:121][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:121][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:122][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:122][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:123][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:123][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:124][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:124][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:124][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:124][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:125][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:125][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:126][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:126][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:127][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:127][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:128][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:128][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:129][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:129][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:129][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:130][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:130][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:130][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:131][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:131][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:132][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:132][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:132][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:132][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:133][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:133][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:134][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:134][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:134][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:135][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:135][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:136][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:136][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:136][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:137][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:137][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:138][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:138][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:139][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:139][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:139][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:139][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:140][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:140][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:141][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:141][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:142][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:142][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:143][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:143][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:144][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:144][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:145][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:145][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:146][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:147][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:147][281]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.06:147][281]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.06:147][281]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.08.09-07.11.06:147][281]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.09-07.11.06:147][281]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.09-07.11.07:333][349]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.08.09-07.11.07:333][349]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-07.11.07:966][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:966][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:968][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:968][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:968][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:969][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:969][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:969][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:970][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:970][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:971][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:971][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:972][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:972][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:973][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:973][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:974][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:974][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:974][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:974][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:975][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:975][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:975][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:975][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:976][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:976][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:977][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:977][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:977][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:977][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:978][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:978][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:979][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:979][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:981][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:981][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:983][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:983][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:984][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:984][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:985][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:985][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:986][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:986][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:986][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:986][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:987][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:987][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:988][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:988][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:989][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:989][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:990][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:990][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:990][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:990][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:991][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:991][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:992][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:992][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:993][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:993][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:994][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:994][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:994][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:994][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:995][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:995][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:996][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:996][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:997][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:997][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:998][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:998][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:999][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.07:999][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.07:999][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.08:000][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.08:000][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.08:000][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.08:001][387]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.08:001][387]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.08:001][387]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.08.09-07.11.08:001][387]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-07.11.08:350][408]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.08.09-07.11.08:350][408]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-07.11.11:194][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:194][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:195][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:195][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:195][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:195][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:196][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:196][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:197][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:197][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:198][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:198][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:198][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:199][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:200][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:200][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:202][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:202][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:203][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:203][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:203][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:203][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:204][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:204][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:205][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:205][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:205][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:206][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:206][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:206][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:207][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:207][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:208][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:208][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:208][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:208][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:209][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:209][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:210][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:210][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:211][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:211][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:211][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:211][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:212][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:212][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:213][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:213][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:214][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:214][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:214][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:214][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:215][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:215][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:216][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:216][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:217][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:217][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:218][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:218][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:218][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:218][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:219][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:219][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:220][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:220][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:220][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:220][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:221][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:221][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:222][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:222][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:223][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:223][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:223][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:223][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:224][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:224][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:225][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:225][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:225][578]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.11:225][578]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.11:225][578]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.08.09-07.11.11:225][578]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2022.08.09-07.11.11:692][606]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.08.09-07.11.11:692][606]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-07.11.12:464][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-07.11.12:464][650]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.08.09-07.11.12:465][650]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-07.11.12:465][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-07.11.12:477][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-07.11.12:486][650]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-07.11.12:527][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-07.11.12:545][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-07.11.12:546][650]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-07.11.12:636][650]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2022.08.09-07.11.12:670][651]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.08.09-07.11.16:426][874]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.09-07.11.16:435][874]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-07.11.16:436][874]PIE: New page: PIE session: ThirdPersonExampleMap (2022年8月9日 下午11:11:16)
+[2022.08.09-07.11.16:436][874]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.08.09-07.11.16:449][874]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013551s)
+[2022.08.09-07.11.16:451][874]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.08.09-07.11.16:451][874]LogPlayLevel: PIE: World Init took: (0.001931s)
+[2022.08.09-07.11.16:452][874]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015771s)
+[2022.08.09-07.11.16:495][874]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.08.09-07.11.16:497][874]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.09-07.11.16:497][874]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-07.11.16:497][874]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-07.11.16:497][874]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-07.11.16:497][874]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-07.11.16:497][874]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-07.11.16:497][874]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-07.11.16:497][874]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-07.11.16:497][874]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-07.11.16:498][874]LogAudio: Display: Using built-in audio occlusion.
+[2022.08.09-07.11.16:498][874]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-07.11.16:501][874]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-07.11.16:501][874]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-07.11.16:608][874]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.08.09-07.11.16:608][874]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-07.11.16:608][874]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-07.11.16:608][874]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-07.11.16:609][874]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-07.11.16:609][874]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-07.11.16:609][874]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-07.11.16:629][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-07.11.16:629][874]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-07.11.16:629][874]LogInit: FAudioDevice initialized.
+[2022.08.09-07.11.16:629][874]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2022.08.09-07.11.16:646][874]LogLoad: Game class is 'GM_BP_C'
+[2022.08.09-07.11.16:648][874]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.08.09-15.11.16
+[2022.08.09-07.11.16:648][874]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2022.08.09-07.11.16:649][874]LogWorld: Bringing up level for play took: 0.001611
+[2022.08.09-07.11.16:649][874]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.08.09-07.11.16:651][874]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.08.09-07.11.16:652][874]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.08.09-07.11.16:652][874]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.16:652][874]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.16:653][874]LogBlueprintUserMessages: [GM_BP_C_0] true
+[2022.08.09-07.11.16:653][874]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.16:653][874]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.16:654][874]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.16:655][874]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.16:656][874]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.16:656][874]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.16:657][874]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.16:657][874]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.16:658][874]PIE: Server logged in
+[2022.08.09-07.11.16:659][874]PIE: Play in editor total start time 0.225 seconds.
+[2022.08.09-07.11.18:789][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:789][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:790][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:790][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:791][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:791][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:792][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:792][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:793][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:794][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:794][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:794][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:795][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:795][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:796][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:796][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:797][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:797][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:797][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:797][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:798][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:798][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:799][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:799][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:799][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:799][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:800][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:800][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:801][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:801][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:802][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:802][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:803][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:803][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:803][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:803][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:804][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:804][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:805][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:805][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:806][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:806][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:806][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:806][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:807][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:807][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:808][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:808][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:808][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:808][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:809][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:809][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:810][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:810][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:811][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:811][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:812][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:812][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:813][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:813][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:814][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:814][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:814][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:814][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:815][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:815][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:815][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:815][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:816][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:816][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:817][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:817][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:817][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:818][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:818][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:818][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:819][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:819][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:820][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:820][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:820][  0]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:820][  0]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:820][  0]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.08.09-07.11.18:820][  0]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2022.08.09-07.11.18:820][  0]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.09-07.11.18:833][  1]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:833][  1]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:964][  9]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:964][  9]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.18:997][ 11]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.18:997][ 11]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:181][ 22]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:181][ 22]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:197][ 23]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:197][ 23]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:314][ 30]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:314][ 30]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:330][ 31]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:331][ 31]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:347][ 32]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:348][ 32]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:364][ 33]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:364][ 33]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:517][ 42]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:517][ 42]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:517][ 42]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:518][ 42]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:563][ 45]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:564][ 45]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:581][ 46]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:581][ 46]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:664][ 51]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:664][ 51]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:697][ 53]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:698][ 53]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:698][ 53]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:698][ 53]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.19:698][ 53]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.19:698][ 53]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.20:072][ 67]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.20:072][ 67]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.20:072][ 67]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.20:072][ 67]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.20:134][ 67]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.20:134][ 67]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.20:135][ 67]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.20:135][ 67]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.20:949][114]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.20:949][114]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.20:949][114]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.20:950][114]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.20:950][114]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.20:950][114]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.20:950][114]LogBlueprintUserMessages: [None] {"PlayerData":{"Name":"lisi","Level":1,"Location":[200,200,0],"BagData":{"GridNum":35,"HadItems":[20001,10012,10021,10011,10031],"GridDatas":[{"ID":10011,"Num":1},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":10031,"Num":1},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":10012,"Num":4},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":10021,"Num":5}]}},"GroundData":[{"Index":"Item_1","ID":10011,"Num":10,"Location":[-1591.22,-1064.13,228.417]},{"Index":"Item_2","ID":20001,"Num":1,"Location":[-1742.19,-994.282,228.417]}],"ShortcutsData":{"ShortcutsGridDatas":[]}}
+[2022.08.09-07.11.22:531][114]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.22:532][114]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.22:532][114]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.22:532][114]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.22:532][114]LogBlueprintUserMessages: [None] {"PlayerData":{"Name":"lisi","Level":1,"Location":[200,200,0],"BagData":{"GridNum":35,"HadItems":[20001,10012,10021,10011,10031],"GridDatas":[{"ID":10011,"Num":1},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":10031,"Num":1},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":20001,"Num":1},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":10012,"Num":4},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":0,"Num":0},{"ID":10021,"Num":5}]}},"GroundData":[{"Index":"Item_1","ID":10011,"Num":10,"Location":[-1591.22,-1064.13,228.417]},{"Index":"Item_2","ID":20001,"Num":1,"Location":[-1742.19,-994.282,228.417]}],"ShortcutsData":{"ShortcutsGridDatas":[]}}
+[2022.08.09-07.11.22:533][114]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.22:534][114]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.22:534][114]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.22:534][114]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.22:534][114]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.22:534][114]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.22:534][114]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.22:534][114]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.22:535][114]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.22:535][114]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.22:535][114]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.22:535][114]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.22:536][114]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.22:536][114]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.22:536][114]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.22:536][114]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.24:615][238]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.24:615][238]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.24:615][238]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.24:615][238]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.24:648][240]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.24:648][240]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.24:648][240]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.24:648][240]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.24:650][240]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.24:650][240]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.24:650][240]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.24:650][240]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.24:651][240]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.24:651][240]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.24:651][240]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.24:651][240]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.24:759][247]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.24:760][247]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.24:760][247]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.24:760][247]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.24:760][247]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.24:760][247]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.24:760][247]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.24:760][247]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.24:799][249]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.24:799][249]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.24:799][249]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.24:800][249]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.24:827][251]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.24:827][251]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.24:827][251]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.24:827][251]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:216][274]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:216][274]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:216][274]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:216][274]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:217][274]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:217][274]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:217][274]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:217][274]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:249][276]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:250][276]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:250][276]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:250][276]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:261][277]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:262][277]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:262][277]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:262][277]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:345][282]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:345][282]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:345][282]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:345][282]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:363][283]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:363][283]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:363][283]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:363][283]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:363][283]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:363][283]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:363][283]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:363][283]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:364][283]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:364][283]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:364][283]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:365][283]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.25:485][289]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.11.25:485][289]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.11.25:485][289]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.11.25:485][289]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.11.26:417][330]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2022.08.09-07.11.26:417][330]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2022.08.09-07.11.28:005][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-07.11.28:005][422]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.08.09-07.11.28:005][422]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.08.09-07.11.28:005][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-07.11.28:019][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.09-07.11.28:025][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.09-07.11.28:060][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.09-07.11.28:061][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-07.11.28:061][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.09-07.11.28:087][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.09-07.11.28:131][422]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.08.09-07.11.28:162][423]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.08.09-07.11.37:478][942]LogSlate: Took 0.057732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.08.09-07.11.37:697][942]LogSlate: Took 0.208944 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.08.09-07.11.48:052][554]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.08.09-07.16.00:112][996]LogTemp: Repeating last play command: Selected Viewport
+[2022.08.09-07.16.00:124][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.09-07.16.00:124][996]PIE: New page: PIE session: ThirdPersonExampleMap (2022年8月9日 下午11:16:00)
+[2022.08.09-07.16.00:124][996]LogPlayLevel: Creating play world package: /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.08.09-07.16.00:138][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013820s)
+[2022.08.09-07.16.00:139][996]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.08.09-07.16.00:140][996]LogPlayLevel: PIE: World Init took: (0.001948s)
+[2022.08.09-07.16.00:140][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016089s)
+[2022.08.09-07.16.00:195][996]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.08.09-07.16.00:197][996]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.08.09-07.16.00:197][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.09-07.16.00:197][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.09-07.16.00:197][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.09-07.16.00:198][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.09-07.16.00:198][996]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.09-07.16.00:198][996]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.08.09-07.16.00:198][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.09-07.16.00:198][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.09-07.16.00:198][996]LogAudio: Display: Using built-in audio occlusion.
+[2022.08.09-07.16.00:198][996]LogAudioMixer: Display: Initializing audio mixer.
+[2022.08.09-07.16.00:203][996]LogAudioMixer: Display: 0: FrontLeft
+[2022.08.09-07.16.00:203][996]LogAudioMixer: Display: 1: FrontRight
+[2022.08.09-07.16.00:353][996]LogAudioMixer: Display: Using Audio Device 扬声器/听筒 (Realtek Audio)
+[2022.08.09-07.16.00:354][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.09-07.16.00:354][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.09-07.16.00:354][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.09-07.16.00:355][996]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.08.09-07.16.00:356][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.08.09-07.16.00:356][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.08.09-07.16.00:375][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.08.09-07.16.00:376][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.08.09-07.16.00:376][996]LogInit: FAudioDevice initialized.
+[2022.08.09-07.16.00:376][996]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2022.08.09-07.16.00:393][996]LogLoad: Game class is 'GM_BP_C'
+[2022.08.09-07.16.00:395][996]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.08.09-15.16.00
+[2022.08.09-07.16.00:396][996]LogGameMode: Error: Mixing AGameStateBase with AGameMode is not compatible. Change AGameStateBase subclass (GameStateBase) to derive from AGameState, or make both derive from Base
+[2022.08.09-07.16.00:396][996]LogWorld: Bringing up level for play took: 0.002300
+[2022.08.09-07.16.00:396][996]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2022.08.09-07.16.00:399][996]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.08.09-07.16.00:399][996]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.08.09-07.16.00:399][996]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.16.00:400][996]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.16.00:400][996]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.16.00:400][996]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.16.00:400][996]LogBlueprintUserMessages: [GM_BP_C_0] true
+[2022.08.09-07.16.00:400][996]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.16.00:400][996]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.16.00:400][996]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.16.00:400][996]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.16.00:401][996]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.16.00:401][996]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.16.00:401][996]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.16.00:401][996]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.16.00:402][996]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.16.00:402][996]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.16.00:402][996]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.16.00:402][996]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.16.00:404][996]LogJson: Warning: Field ShortcutsGridNums was not found.
+[2022.08.09-07.16.00:404][996]LogJson: Error: Json Value of type 'Null' used as a 'Number'.
+[2022.08.09-07.16.00:404][996]LogJson: Warning: Field ShortcutsGridDatas was not found.
+[2022.08.09-07.16.00:404][996]LogJson: Error: Json Value of type 'Null' used as a 'Array'.
+[2022.08.09-07.16.00:404][996]LogOutputDevice: Warning: 
+
+Script Stack (3 frames):
+ShortcutsWidgetType3.Init
+BP_HUD_C.ExecuteUbergraph_BP_HUD
+BP_HUD_C.ReceiveBeginPlay
+
+[2022.08.09-07.16.00:460][996]LogWindows: Windows GetLastError: 操作成功完成。 (0)
